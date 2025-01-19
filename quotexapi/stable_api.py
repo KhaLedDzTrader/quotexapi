@@ -54,7 +54,7 @@ class Quotex:
 
     # __________________FOR OPTION____________________________
     def buy(self, ACTIVES, price, ACTION, expirations):
-        """ Buy Binary option""""
+        """ Buy Binary option"""
         pass
       
     def sell_option(self, options_ids):
